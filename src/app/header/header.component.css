@@ -1,0 +1,30 @@
+.header {
+    color : #FFFF;
+    background-color: #F31C53;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+}
+
+
+.menu {
+    list-style-type: none;   
+     float: right;
+    
+     padding-top: 20px;
+     padding-bottom: 20px;
+     padding-right: 60px;
+     padding-left: 40px;
+     cursor: pointer;
+     outline: none;
+    
+}
+
+.left {
+    float: left;
+}
+
+.post-btn {
+
+    cursor: pointer;
+}
